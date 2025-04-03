@@ -7,7 +7,7 @@ Hi My name is Kaden Trousdale!
 Web Developer, IT specialist, and Student
 -----------------------------------------
 
-I have been an IT student at the University of North Alabama for nearly 3 years and have learned many skills and collaborated on countless projects.
+I have been an IT student at the University of North Alabama for nearly 3 years and have learned many skills and collaborated on countless projects or varying types.
 
 * 🌍  I'm based in Florence, Alabama
 * ✉️  You can contact me at [kaden.trousdale@gmail.com](mailto:kaden.trousdale@gmail.com)
