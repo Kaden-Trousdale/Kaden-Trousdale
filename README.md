@@ -1,7 +1,8 @@
 Hi My name is Kaden Trousdale!
 ========================================================================================================================================
 
-![image](https://github.com/user-attachments/assets/7b1e1c4e-7f20-4922-a628-506c657cbce1)
+![image](https://github.com/user-attachments/assets/592be79a-8758-4755-9449-7a6f16bed3d8)
+
 
 
 Web Developer, IT specialist, and Student
