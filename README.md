@@ -1,8 +1,7 @@
 Hi My name is Kaden Trousdale!
 ========================================================================================================================================
 
-<div class="tenor-gif-embed" data-postid="497417074904019795" data-share-method="host" data-aspect-ratio="1.02326" data-width="100%"><a href="https://tenor.com/view/yippee-cheer-meow-cat-gif-497417074904019795">Yippee Cheer Sticker</a>from <a href="https://tenor.com/search/yippee-stickers">Yippee Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
+![image](https://github.com/user-attachments/assets/ced6b29e-e630-4ae6-9192-4a39031b2dfa)
 
 
 Web Developer, IT specialist, and Student
