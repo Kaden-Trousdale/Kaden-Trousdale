@@ -1,7 +1,7 @@
 Hi My name is Kaden Trousdale!
 ========================================================================================================================================
 
-![image](https://github.com/user-attachments/assets/592be79a-8758-4755-9449-7a6f16bed3d8)
+![image](https://github.com/user-attachments/assets/592be79a-8758-4755-9449-7a6f16bed3d8.gif)
 
 
 
