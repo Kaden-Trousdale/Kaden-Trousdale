@@ -11,6 +11,7 @@ I have been an IT student at the University of North Alabama for nearly 3 years 
 
 * 🌍  I'm based in Florence, Alabama
 * ✉️  You can contact me at [kaden.trousdale@gmail.com](mailto:kaden.trousdale@gmail.com)
+* 🚀  I'm currently working on [Keylogger and Keylogger prevention](http://https://github.com/isabellerushing/499keylog)
 
 <a href="https://www.github.com/Kaden-Trousdale" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Kaden-Trousdale?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
