@@ -38,5 +38,5 @@ src="https://img.shields.io/github/followers/Kaden-Trousdale?logo=github&style=f
 
 <b>Top Repositories</b>
 <br />
-<a href="https://github.com/Kaden-Trousdale/Charlie-Assignment-Repo" align="left"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaden-Trousdale&repo=Charlie-Assignment-Repo&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<a href="https://github.com/Kaden-Trousdale/Charlie-Assignment-Repo" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaden-Trousdale&repo=Charlie-Assignment-Repo&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 
