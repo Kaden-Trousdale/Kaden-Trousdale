@@ -37,5 +37,6 @@ src="https://img.shields.io/github/followers/Kaden-Trousdale?logo=github&style=f
 <a href="https://github.com/Kaden-Trousdale" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaden-Trousdale&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
+<br />
 <a href="https://github.com/Kaden-Trousdale/Charlie-Assignment-Repo" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaden-Trousdale&repo=Charlie-Assignment-Repo&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
