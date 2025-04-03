@@ -1,4 +1,4 @@
-Hi My name is Kaden Trousdale!
+Hi, My name is Kaden Trousdale!
 ========================================================================================================================================
 
 ![image](https://github.com/user-attachments/assets/ced6b29e-e630-4ae6-9192-4a39031b2dfa)
